@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi produzido para a matéria de Desenvolvimento Web.
+trata-se se uma simulação básica de um jogo de batalha naval para demonstração do framework com Create React App.
 
 ## Available Scripts
 
